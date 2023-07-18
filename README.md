@@ -11,7 +11,7 @@
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/#339933-00000F?style=for-the-badge&logo=nodejs&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Node.js-00000F?style=for-the-badge&logo=node.js&logoColor=white" height="25">
 &nbsp;
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25">
 &nbsp;
