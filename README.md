@@ -8,16 +8,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
 
 <br>
-<p  align="center">
 
-<img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
-  </p>
-  
-
-  <p  align="center">
-
-
-</p>
 <p align="center">
 
   <img src="https://img.shields.io/badge/#339933-00000F?style=for-the-badge&logo=nodejs&logoColor=white" height="25">
