@@ -24,7 +24,7 @@
 
 <p align="center">
   
-  <a href="https://discordapp.com/users/648135635315720192" target="_blank">
+  <a href="https://discordapp.com/users/850623160494981150" target="_blank">
     <img align="center" alt="milleniumishere | Discord" width="24px" src="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Discord_Logo_sans_texte.svg/800px-Discord_Logo_sans_texte.svg.png" />
   </a> &nbsp;&nbsp;
   
