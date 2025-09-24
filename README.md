@@ -5,7 +5,7 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 - 🌱 I’m currently Studient in France.
 - 🔥 Most proud of -- [EpicBots](https://discord.gg/epicbots), Bumper, discord bots but also Bot-Ads.ovh.
-- 🔜 Soon avilable -- VertoLink.fr .
+- 🔜 Soon available -- VertoLink.fr .
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
 
 <br>
