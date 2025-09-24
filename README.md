@@ -16,8 +16,11 @@
 &nbsp;
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25">
 &nbsp;
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
+  &nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Javascript-736400_960_720.png" height="25">
+&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height="25">
-
 </p>
 <br>
 
